@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.list-container{
+  margin-top: 10%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-image: url("../img/notepad.compress.jpg");
+  background-repeat: no-repeat;
+  background-size: fill;
+
+  border:solid 1px transparent;
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px slategrey;
+
+  text-align: center;
+  font-family: "Open sans", "sans serif";
+}
